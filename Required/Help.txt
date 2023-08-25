@@ -1,0 +1,3 @@
+sudo chmod 666 /var/run/docker.sock
+sudo usermod -a -G docker jenkins
+sudo apt install --reinstall coreutils
