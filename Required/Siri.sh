@@ -55,3 +55,4 @@ echo "Siri: OK! I wouldn't then."
 fi
 else
 echo "Siri: You know a secret, I have a talent for not predicting right. Bye, will see you later."
+fi
