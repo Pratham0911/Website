@@ -31,7 +31,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 echo "Siri: Paste upper result."  
 
 echo "Siri: I'll wait for 2 minutes, complete the process"
-sleep 2m
+sleep 3m
 echo "Siri: Let me install Docker now."
 sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg
